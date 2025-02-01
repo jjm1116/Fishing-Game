@@ -1,2 +1,2 @@
-# Fishing-Gmae
+# Fishing-Game
 Fishing game using Python
