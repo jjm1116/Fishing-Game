@@ -1,2 +1,3 @@
 # Fishing-Game
-Fishing game using Python
+
+This is a fishing game that is made out of python. 
